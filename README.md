@@ -1,6 +1,6 @@
 # Jabumpad
 a hackpad from me
-used AI just for the firmvare took me like 8hours min  
+i  used AI just for the firmvare took me like 8hours min  
 hardest thing was the PCB 
 the tutorial is pretty confusing for me so if i got somting wrong am soory
 
